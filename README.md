@@ -57,7 +57,7 @@ rootmask off       # Use actual username
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourname/slush.git
+https://github.com/TORQUE-ACE/slush-shell.git
 cd slush
 
 # Compile the source code
