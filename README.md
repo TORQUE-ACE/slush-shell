@@ -50,7 +50,7 @@ log on             # Enable command logging
 log off            # Disable command logging
 rootmask on        # Mask username as 'root' in prompt
 rootmask off       # Use actual username
-
+```
 ---
 
 ## 🛠️ Installation
@@ -65,3 +65,4 @@ gcc slush.c -o slush -lreadline
 
 # Run the shell
 ./slush
+```
