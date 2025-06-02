@@ -12,7 +12,8 @@
 ```
 
 **Slush** is a minimalist, hacker-style shell written entirely in C.  
-It offers simplicity, customization, and complete control of the user prompt and shell behavior — perfect for Linux enthusiasts, OS developers, and shell hackers.
+It offers simplicity, customization, and complete control of the user prompt and shell behavior. 
+Perfect for Linux enthusiasts, OS developers, and shell hackers.
 
 ---
 
